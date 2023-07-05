@@ -3,7 +3,7 @@ Assignment22 for homework on IT Bootcamp course
 
 API requests in Postman:
 
-- Follow the instructions from the link.
+- Follow the instructions from the https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md.
 
 For starters, you have to register, but you can use any non-existent email.
 
